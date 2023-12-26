@@ -1,4 +1,4 @@
-- 👻 Hi, I’m @emracatal
+- 👻 Hi, I’m Emra
 - 👩‍💻 I’m interested in Full Stack Development
 - 🌱 I’m currently learning JavaScript,HTML,CSS,Java
 - 👩‍🎓 I already learned that becoming a software developer, i have signed up to be a lifelong student
