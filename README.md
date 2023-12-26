@@ -2,5 +2,5 @@
 - 👩‍💻 I’m interested in Full Stack Development
 - 🌱 I’m currently learning JavaScript,HTML,CSS,Java
 - 👩‍🎓 I already learned that becoming a software developer, i have signed up to be a lifelong student
-- 📫 How to reach me: 📩 emracatal@gmail.com
+- 📩 How to reach me: emracatal@gmail.com
 - May the 🐼's bi with you
